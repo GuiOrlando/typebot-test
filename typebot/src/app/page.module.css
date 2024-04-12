@@ -1,0 +1,36 @@
+.tittle h1 {
+    font-family: Helvetica;
+    text-align: center;
+    justify-content: center;
+    margin: 100px;
+    padding: 0px;
+}
+
+.btn1 button {
+    background-color: #000;
+    border-radius: 25px;
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-color: #000;
+    box-sizing: border-box;
+}
+
+.btn1 button:hover {
+    color: yellow;
+    transition: 0.5s;
+}
+
+.btn2 button {
+    background-color: #000;
+    border-radius: 25px;
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-color: #000;
+    box-sizing: border-box;
+}
